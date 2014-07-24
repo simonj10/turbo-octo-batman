@@ -19,4 +19,4 @@ don't use aquaman-smckay123.txt! </li>
 <li>Submit a pull request asking Billy to add your review to his collection</li>
 </ol>
 
-Na Na Na Na Na Na Na Na ....
+**Na Na Na Na Na Na Na Na ....**
