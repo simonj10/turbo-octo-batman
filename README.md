@@ -18,4 +18,3 @@ don't use aquaman-smckay123.txt! </li>
 <li>Add, commit, push your file back to your forked repository</li>
 <li>Submit a pull request asking Billy to add your review to his collection</li>
 </ol>
-I made changes here. This one
